@@ -1,0 +1,2 @@
+﻿name,generic_name,strength,dosage_form,manufacturer,pack_size,barcode,category,purchase_price,wholesale_price,retail_price,mrp,minimum_stock,unit_name,unit_factor,prescription_required,drap_registration_number
+DEMO Sample Product,DEMO generic,10 mg,Tablet,DEMO Manufacturer,10 tablets,DEMO-0001,DEMO,10,12,15,18,5,Tablet,1,false,DEMO-REG
